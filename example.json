@@ -1,0 +1,8 @@
+{
+    "proxy": {
+        "host": "HOST",
+        "username": "USERNAME",
+        "password": "PASSWORD"
+    },
+    "port": 8006
+}
